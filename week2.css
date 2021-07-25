@@ -1,0 +1,25 @@
+nav {
+    background-color: aqua;
+}
+
+h1 {
+    text-align: center !important;
+}
+
+img {
+    max-height: 100%;
+    max-width: 100%;
+    height: auto;
+    border: solid;
+    border-radius: 20%;
+}
+
+p {
+    background-color: purple;
+    color: white;
+}
+
+input[type=checkbox]:checked + label{
+    text-decoration: line-through;
+    color: red;
+}
