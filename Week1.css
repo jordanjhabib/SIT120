@@ -1,0 +1,26 @@
+h1 {
+    text-align: center;
+    }
+
+h2{
+    color: black;
+}
+
+.Deakin {
+    background-color: pink;
+    width: 48%;
+}
+  
+.colummn1 {
+    float: left;
+    width: 48%;
+    background-color: rgb(11, 117, 238);
+  }
+  
+.colummn2 {
+    float: right;
+    width: 50%;
+    clear: both;
+    display: table;
+    background-color: springgreen;
+  }
